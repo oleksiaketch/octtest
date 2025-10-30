@@ -11,7 +11,7 @@ int add(int a, int b) {
 }
 
 // Subtracts second integer from the first.
-int subtract(int a, int b) {
+int subtract(int a, int b)  {
     return a - b;
 }
 
